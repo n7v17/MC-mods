@@ -1,3 +1,5 @@
+НИЖЕ НЕТ КНОПОК, ТОЛЬКО КАРТИНКИ! (и ссылка)
+
 1. Скачать файли из репозитория (Download ZIP)
 
 ![image](https://user-images.githubusercontent.com/103368069/162759851-6affee04-bd1b-4642-a0cb-c169cdf92251.png)
