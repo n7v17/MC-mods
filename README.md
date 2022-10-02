@@ -2,11 +2,11 @@
 
 1. Скачать файли из репозитория (Download ZIP)
 
-![image](https://user-images.githubusercontent.com/103368069/162759851-6affee04-bd1b-4642-a0cb-c169cdf92251.png)
+    ![image](https://user-images.githubusercontent.com/103368069/162759851-6affee04-bd1b-4642-a0cb-c169cdf92251.png)
 
 2. Скачать установщик Fabric с https://fabricmc.net/use/installer/
 
-![image](https://user-images.githubusercontent.com/103368069/162753486-a9e0f27b-90c7-4a48-b4df-d011159031ad.png)
+    ![image](https://user-images.githubusercontent.com/103368069/162753486-a9e0f27b-90c7-4a48-b4df-d011159031ad.png)
 
 3. Зайти в майнкрафт, запустить выбранную версию, выйти из игры, запомнить путь к папке .minecraft
 
@@ -18,7 +18,7 @@
 
 5. Открыть установщик Fabric, выбрать нужную версию игры, указать путь папки с minecraft, нажать "Установить"
 
-![image](https://user-images.githubusercontent.com/103368069/162752621-6f22f618-7a38-4260-b0bc-6fe2fada6bba.png)
+    ![image](https://user-images.githubusercontent.com/103368069/162752621-6f22f618-7a38-4260-b0bc-6fe2fada6bba.png)
 
 5. Из скачанного архива папку mods переместить в папку .minecraft
 6. Запустить майнкрафт
